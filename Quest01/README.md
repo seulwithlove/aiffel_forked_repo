@@ -13,11 +13,11 @@
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 근거로 첨부
         - ![image](https://github.com/leeseunghwan0409/AIFFEL_Online_Quest/assets/149548653/0db04e50-82c1-4f5a-b609-ee258080c4d5)
-              - 단어를 입력했을 때 결과가 잘 나옵니다.
+          - 단어를 입력했을 때 결과가 잘 나옵니다.
         - ![numbertest](https://github.com/seulwithlove/seunhwan_repo/assets/140625136/32eb0c72-7486-48d4-8635-d5ee873def51)
-              - 숫자를 입력했을 때에도 결과가 잘 나옵니다.
+          - 숫자를 입력했을 때에도 결과가 잘 나옵니다.
         - ![sentencetest](https://github.com/seulwithlove/seunhwan_repo/assets/140625136/9e635859-3f17-4f3b-abc1-51b6c7e75338)
-              - 문장을 입력했을 때에도 결과가 잘 나옵니다.
+          - 문장을 입력했을 때에도 결과가 잘 나옵니다.
 
 
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
