@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 7th Code Peer Review Templete
 
-- 코더 : 홍채림
+- 코더 : 이승환
 - 리뷰어 : 본인의 이름을 작성하세요.
 
 
